@@ -12,7 +12,6 @@
     background-color: #333333;
     width: 30%;
     height: 100%;
-    max-width: 200px;
     float: left;
 }
 .imageviewer .main {
@@ -42,4 +41,7 @@
     color: #e5e5e5;
     top: 0px;
     left: 0px;
+}
+@media(width < 400px) {
+    
 }
